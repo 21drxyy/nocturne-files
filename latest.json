@@ -1,0 +1,12 @@
+{
+    "version":  "0.10",
+    "release":  "v0.10",
+    "files":  [
+                  {
+                      "name":  "nocturneui.exe",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.10/nocturneui.exe",
+                      "size":  6212096,
+                      "sha256":  "40fa9480424cb6a1171be6764a72b02b5a2b90692f67f3aedaf504775a2d9bd3"
+                  }
+              ]
+}
