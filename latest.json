@@ -1,12 +1,36 @@
 {
-    "version":  "0.10",
-    "release":  "v0.10",
+    "version":  "0.11",
+    "release":  "v0.11",
     "files":  [
                   {
                       "name":  "nocturneui.exe",
-                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.10/nocturneui.exe",
-                      "size":  6212608,
-                      "sha256":  "6a1bab5d6615dd42846e7d98256d6ebcc8fd7972c7f4956166f273d762a7a46c"
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/nocturneui.exe",
+                      "size":  6218240,
+                      "sha256":  "1dba03158c28529bfbb32af93b09fc318835662e763cf217a7ab4e116513dd4c"
+                  },
+                  {
+                      "name":  "mcp-server/mcp-stdio.mjs",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/mcp-stdio.mjs",
+                      "size":  5655,
+                      "sha256":  "fd464489bcd39514242241a48b10e18ab62f26260f2f28affb47542713f45ea6"
+                  },
+                  {
+                      "name":  "mcp-server/register.mjs",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/register.mjs",
+                      "size":  3144,
+                      "sha256":  "bb172fa054ea77b4e737d2890ab3ca005acde8c88325b600bea40d590856db6b"
+                  },
+                  {
+                      "name":  "mcp-server/roblox-bridge.luau",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/roblox-bridge.luau",
+                      "size":  8225,
+                      "sha256":  "7f7aee1538d91b55aba86f1e83b3a66b85d0ce9445966982fbdfac9c315e8058"
+                  },
+                  {
+                      "name":  "mcp-server/server.js",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/server.js",
+                      "size":  7138,
+                      "sha256":  "c80420c389a4a34da590680b96f6342723e7e105ab103415ce4fa4654202fab1"
                   }
               ]
 }
