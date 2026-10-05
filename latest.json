@@ -1,36 +1,54 @@
 {
-    "version":  "0.11",
-    "release":  "v0.11",
+    "version":  "1.12",
+    "release":  "v1.12",
     "files":  [
                   {
                       "name":  "nocturneui.exe",
-                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/nocturneui.exe",
-                      "size":  6218240,
-                      "sha256":  "1dba03158c28529bfbb32af93b09fc318835662e763cf217a7ab4e116513dd4c"
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v1.12/nocturneui.exe",
+                      "size":  6430720,
+                      "sha256":  "ac96aa2205d996ffbd6bc5b1c0527480d215a98ca398e18bf3e1174a2f97842d"
                   },
                   {
                       "name":  "mcp-server/mcp-stdio.mjs",
-                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/mcp-stdio.mjs",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v1.12/mcp-stdio.mjs",
                       "size":  5655,
                       "sha256":  "fd464489bcd39514242241a48b10e18ab62f26260f2f28affb47542713f45ea6"
                   },
                   {
                       "name":  "mcp-server/register.mjs",
-                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/register.mjs",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v1.12/register.mjs",
                       "size":  3144,
                       "sha256":  "bb172fa054ea77b4e737d2890ab3ca005acde8c88325b600bea40d590856db6b"
                   },
                   {
                       "name":  "mcp-server/roblox-bridge.luau",
-                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/roblox-bridge.luau",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v1.12/roblox-bridge.luau",
                       "size":  8225,
                       "sha256":  "7f7aee1538d91b55aba86f1e83b3a66b85d0ce9445966982fbdfac9c315e8058"
                   },
                   {
                       "name":  "mcp-server/server.js",
-                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v0.11/server.js",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v1.12/server.js",
                       "size":  7138,
                       "sha256":  "c80420c389a4a34da590680b96f6342723e7e105ab103415ce4fa4654202fab1"
+                  },
+                  {
+                      "name":  "bin/decompiler.exe",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v1.12/decompiler.exe",
+                      "size":  3792384,
+                      "sha256":  "a91d004f1560f0023be354a24e0518076b284002cb9625dbde40ab7e69842d55"
+                  },
+                  {
+                      "name":  "bin/Injector.exe",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v1.12/Injector.exe",
+                      "size":  80384,
+                      "sha256":  "fa8365de63e3975a2e5471bdc85c98e90df3bacb88376fbac9147fad7092750f"
+                  },
+                  {
+                      "name":  "bin/Module.dll",
+                      "url":  "https://github.com/21drxyy/nocturne-files/releases/download/v1.12/Module.dll",
+                      "size":  3562496,
+                      "sha256":  "411d5ab43dfaaaf2497f215251fc7fbd1f7c7c5efa06a45c8de5d3739846c75156"
                   }
               ]
 }
